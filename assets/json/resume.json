@@ -1,200 +1,94 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Serge Gaspers",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "serge.gaspers@unsw.edu.au",
+    "phone": "",
+    "url": "https://serggasp.github.io/",
+    "summary": "professor of computer science, specialising in algorithms for intractable problems"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "UNSW Sydney",
+      "position": "Professor",
+      "url": "https://www.unsw.edu.au/",
+      "startDate": "2012-06-07",
+      "endDate": "",
+      "summary": "I decided to move to UNSW Sydney on a Vice-Chancellor's postdoctoral fellowship in 2012, mentored by Toby Walsh. Before I could take up the postdoctoral fellowship, I was awarded a DECRA (Discovery Early Career Award) by the Australian Research Council (ARC), which was followed up by a Future Fellowship. After 3 successful rounds of promotion, I became a professor in 2022. Since 2018 I have also been the Associate Head of School (Research).",
+      "highlights": [
+        "DECRA", "Future Fellowship", "Discovery Project 2015 & 2021", "head of Algorithms group", "collaborative research projects with NICTA and Data61"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "TU Wien",
+      "position": "postdoctoral researcher",
+      "url": "https://www.tuwien.at/en/",
+      "startDate": "2010-10-01",
+      "endDate": "2012-05-31",
+      "summary": "Funded by Stefan Szeider's ERC starting grant."
+    },
+    {
+      "name": "Universidad de Chile",
+      "position": "postdoctoral researcher",
+      "url": "https://uchile.cl/",
+      "startDate": "2009-09-25",
+      "endDate": "2010-09-24",
+      "summary": "Funded by the Centro de Modelamiento Matemático."
+    },
+    {
+      "name": "Université de Montpellier",
+      "position": "postdoctoral researcher",
+      "url": "http://www.umontpellier.fr/",
+      "startDate": "2009-01-01",
+      "endDate": "2010-08-31",
+      "summary": "Funded by an ANR project on graph decompositions and algorithms (joint between LaBRI, LIAFA, and LIRMM)."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universitetet i Bergen, Bergen, Norway",
+      "url": "https://www.uib.no/",
+      "area": "computer science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "startDate": "2006-01-01",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": [
+        "Algorithms", "PhD thesis 2008 'Exponential Time Algorithms: Structures, Measures, and Bounds' supervised by Fedor V. Fomin, co-supervised by Pinar Heggernes, and examined by Thore Husfedt, Ryan Williams, and Dag Haugland"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "institution": "Université de Lorraine, Metz/Nancy, France",
+      "url": "https://www.univ-lorraine.fr/",
+      "area": "computer science",
+      "studyType": "Diplôme d’Etudes Approfondies Informatique de Lorraine",
+      "startDate": "2002-09-31",
+      "endDate": "2005-09-01",
+      "score": "",
+      "courses": [
+        "Licence Informatique", "Maîtrise Informatique", "Diplôme d’Etudes Approfondies Informatique de Lorraine", "Maîtrise thesis 2004 'Algorithmes pour le problème de domination d'un graphe' supervised by Dieter Kratsch", "Master thesis 2005 'Algorithmes exponentiels' supervised by Dieter Kratsch"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+      "institution": "Université du Luxembourg, Luxembourg, Luxembourg",
+      "url": "https://www.uni.lu/",
+      "area": "computer science",
+      "studyType": "Diplôme Universitaire de Technologie en Informatique",
+      "startDate": "2000-09-31",
+      "endDate": "2002-09-01",
+      "score": "",
+      "courses": [
+        "Diplôme Universitaire de Technologie en Informatique", "Mémoire de fin d'études 'Création d'un Firewall' supervised by Paul Yans"
+      ]
+    }    
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }

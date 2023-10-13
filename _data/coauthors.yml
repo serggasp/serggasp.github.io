@@ -32,3 +32,427 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+
+"Abeliuk":
+  - firstname: ["Andrés", "Andres", "A."]
+    url: https://aabeliuk.github.io/
+
+"Abu-Khzam":
+  - firstname: ["Faisal N.", "F. N.", "Faisal", "F."]
+    url: https://www.csm.lau.edu.lb/fabukhzam/
+
+"Aleksandrov":
+  - firstname: ["Martin", "M."]
+    url: https://martofena.github.io/
+
+"Asghar":
+  - firstname: ["Hassan Jameel", "Hassan J.", "H. J.", "Hassan", "H."]
+    url: https://hasghar.github.io/
+
+"Aziz":
+  - firstname: ["Haris", "H."]
+    url: https://sites.google.com/site/harisaziz/
+
+"Berbeglia":
+  - firstname: ["Gerardo", "G."]
+    url: https://mbs.edu/faculty-and-research/faculty/gerardo-berbeglia
+
+"Bessy":
+  - firstname: ["Stéphane", "Stephane", "S."]
+    url: https://www.lirmm.fr/~bessy/
+
+"Bevern":
+  - firstname: ["René", "Rene", "R.", "René van", "Rene van", "R. van"]
+    url: https://rvb.su/
+
+"Binkele-Raible":
+  - firstname: ["Daniel", "D."]
+    url: https://dblp.org/pid/r/DanielRaible.html
+
+"Raible":
+  - firstname: ["Daniel", "D."]
+    url: https://dblp.org/pid/r/DanielRaible.html
+
+"Biró":
+  - firstname: ["Péter", "Peter", "P."]
+    url: https://mechanismdesign.eu/member/peter-biro/
+
+"Bonnet":
+  - firstname: ["Édouard", "Edouard", "É.", "E.", ""]
+    url: https://perso.ens-lyon.fr/edouard.bonnet/
+
+"Casel":
+  - firstname: ["Katrin", "K."]
+    url: https://www.informatik.hu-berlin.de/de/org/mitarbeiter/1695287
+
+"Chen":
+  - firstname: ["Jiayin", "Jen", "J."]
+    url: https://scholar.google.com.au/citations?user=-KpSS0IAAAAJ&hl=en
+
+"Chu":
+  - firstname: ["Geoffrey", "G."]
+    url: https://dblp.org/pid/16/7407.html
+
+"Cochefert":
+  - firstname: ["Manfred", "M."]
+    url: https://www.linkedin.com/in/manfred-cochefert/
+
+"Couturier":
+  - firstname: ["Jean-François", "Jean-Francois", "J.-F."]
+    url: https://dblp.org/pid/30/10257-1.html
+
+"Downey":
+  - firstname: ["Rodney G.", "Rod G.", "R. G.", "Rodney", "Rod", "R."]
+    url: https://homepages.ecs.vuw.ac.nz/~downey/
+
+"Egan":
+  - firstname: ["Judith", "J."]
+    url: https://dblp.org/pid/15/2567.html
+
+"Fellows":
+  - firstname: ["Michael R.", "M. R.", "Michael", "M."]
+    url: https://www.uib.no/en/persons/Michael.Ralph.Fellows
+
+"Fernau":
+  - firstname: ["Henning", "H."]
+    url: https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/informatikwissenschaften/professuren/theoretische-informatik/group-members/prof-dr-henning-fernau
+
+"Finbow":
+  - firstname: ["Stephen", "S."]
+    url: https://people.stfx.ca/sfinbow/
+
+"Fleiner":
+  - firstname: ["Tamás", "Tamas", "T."]
+    url: http://www.cs.bme.hu/~fleiner/indexeng
+
+"Fomin":
+  - firstname: ["Fedor", "F.", "Fedor V.", "F. V."]
+    url: http://www.ii.uib.no/~fomin/
+
+"Frati":
+  - firstname: ["Fabrizio", "F."]
+    url: https://compunet.ing.uniroma3.it/#!/people/frati
+
+"Fürer":
+  - firstname: ["Martin", "M."]
+    url: https://www.cse.psu.edu/~fhs/
+
+"Gerding":
+  - firstname: ["Enrico H.", "E. H.", "Enrico", "E."]
+    url: https://www.southampton.ac.uk/people/5x2dnl/professor-enrico-gerding
+
+"Gioiosa":
+  - firstname: ["Gianpaolo", "G."]
+    url: https://dblp.uni-trier.de/pid/03/5795.html
+
+"Golovach":
+  - firstname: ["Petr A.", "P. A.", "Petr", "P."]
+    url: https://www.uib.no/en/persons/Petr.Golovach
+
+"Gras":
+  - firstname: ["Benjamin", "B."]
+    url: https://dblp.org/pid/162/3253-2.html
+
+"Gudmundsson":
+  - firstname: ["Joachim", "J."]
+    url: https://www.sydney.edu.au/engineering/about/our-people/academic-staff/joachim-gudmundsson.html
+
+"de Haan":
+  - firstname: ["Ronald", "R."]
+    url: https://staff.science.uva.nl/r.dehaan/
+
+"Haan":
+  - firstname: ["Ronald de", "R. de", "Ronald", "R."]
+    url: https://staff.science.uva.nl/r.dehaan/
+
+"Horton":
+  - firstname: ["Michael", "M."]
+    url: https://www.linkedin.com/in/michael-horton-phd
+
+"Huang":
+  - firstname: ["Shenwei", "S."]
+    url: https://dblp.org/pid/32/9213.html
+
+"Jones":
+  - firstname: ["Mitchell", "M."]
+    url: https://mfjones.github.io/
+
+"Kalina":
+  - firstname: ["Petr", "P."]
+    url: https://www.linkedin.com/in/petrkalina/
+
+"Kalinowski":
+  - firstname: ["Thomas", "T."]
+    url: https://turing.une.edu.au/~tkalinow/
+
+"Kaploun":
+  - firstname: ["Andrew", "A."]
+    url: https://www.linkedin.com/in/andrewkaploun/
+
+"Kasiviswanathan":
+  - firstname: ["Shiva Prasad", "Shiva P.", "S. P.", "Shiva", "S."]
+    url: https://www.shivakasiviswanathan.com/
+
+"Kim":
+  - firstname: ["Eun Jung", "EunJung", "Eunjung", "E. J.", "E."]
+    url: https://www.lamsade.dauphine.fr/~kim/
+
+"Koivisto":
+  - firstname: ["Mikko", "M."]
+    url: https://www.cs.helsinki.fi/u/mkhkoivi/
+
+"Kratsch":
+  - firstname: ["Dieter", "D."]
+    url: http://www.lita.univ-lorraine.fr/~kratsch/
+
+"Lambilliotte":
+  - firstname: ["Antonin", "A."]
+    url: https://dblp.org/pid/199/1788.html
+
+"Lau":
+  - firstname: ["Joshua", "Josh", "J."]
+    url: https://au.linkedin.com/in/joshua-lau-junkbot
+
+"Lee":
+  - firstname: ["Edward", "E.", "Edward Jay", "Edward J.", "E. J."]
+    url: https://dblp.org/pid/202/9999.html
+
+"Leeuwen":
+  - firstname: ["Erik Jan", "Erik Jan van", "E. J.", "E. J. van"]
+    url: https://www.erikjanvl.nl/
+
+"Li":
+  - firstname: ["Ray", "R."]
+    url: https://mathematics.uchicago.edu/people/profile/ray-li/
+
+"Liedloff":
+  - firstname: ["Mathieu", "M."]
+    url: https://www.univ-orleans.fr/lifo/Members/Mathieu.Liedloff/
+
+"Lokshtanov":
+  - firstname: ["Daniel", "D."]
+    url: https://sites.cs.ucsb.edu/~daniello/
+
+"Mackenzie":
+  - firstname: ["Simon", "S."]
+    url: https://dblp.org/pid/139/0823.html
+
+"Marcu":
+  - firstname: ["Antonia", "A."]
+    url: https://dblp.org/pid/246/2958
+
+"Mathieson":
+  - firstname: ["Luke", "L."]
+    url: https://profiles.uts.edu.au/Luke.Mathieson
+
+"Mattei":
+  - firstname: ["Nicholas", "Nick", "N."]
+    url: https://sse.tulane.edu/nicholas-mattei
+
+"Messinger":
+  - firstname: ["Margaret-Ellen", "M.-E.", "M. E."]
+    url: https://mta.ca/directory/me-messinger
+
+"Mestre":
+  - firstname: ["Julián", "Julian", "J."]
+    url: https://www.sydney.edu.au/engineering/about/our-people/academic-staff/julian-mestre.html
+
+"Misra":
+  - firstname: ["Neeldhara", "N."]
+    url: https://iitgn.ac.in/faculty/cse/neeldhara
+
+"Mnich":
+  - firstname: ["Matthias", "M."]
+    url: https://www.mle.hamburg/authors/mnich/
+
+"Mrabet":
+  - firstname: ["Sirine", "S."]
+    url: https://research.csiro.au/isp/about-us/people/sirine-mrabet/
+
+"Najeebullah":
+  - firstname: ["Kamran", "K."]
+    url: https://people.csiro.au/n/k/kamran-najeebullah
+
+"Narodytska":
+  - firstname: ["Nina", "N."]
+    url: https://research.vmware.com/researchers/nina-narodytska
+
+"Naroditskiy":
+  - firstname: ["Victor", "V."]
+    url: https://www.linkedin.com/in/naroditskiy/
+
+"Nowakowski":
+  - firstname: ["Richard J.", "R. J.", "Richard", "R."]
+    url: https://www.mscs.dal.ca/~rjn/Home.html
+
+"Ordyniak":
+  - firstname: ["Sebastian", "S."]
+    url: https://eps.leeds.ac.uk/computing/staff/8786/dr-sebastian-ordyniak
+
+"Ottaway":
+  - firstname: ["Paul", "P."]
+    url: https://www.capilanou.ca/programs--courses/search--select/explore-our-areas-of-study/faculty-profiles/paul-ottaway/
+
+"Papadimitriou":
+  - firstname: ["Christos H.", "C. H.", "Christos", "C."]
+    url: https://www.engineering.columbia.edu/faculty/christos-papadimitriou
+
+"Paul":
+  - firstname: ["Christophe", "C."]
+    url: https://www.lirmm.fr/~paul/
+
+"Paulusma":
+  - firstname: ["Daniël", "Daniel", "D."]
+    url: https://danielpaulusma.github.io/
+
+"Perez":
+  - firstname: ["Anthony", "A."]
+    url: https://www.univ-orleans.fr/lifo/membres/Anthony.Perez/
+
+"Perez-Diaz":
+  - firstname: ["Alvaro", "A."]
+    url: https://alvarop.me/
+
+"Peters":
+  - firstname: ["Dominik", "D."]
+    url: https://dominik-peters.de/
+
+"Pralat":
+  - firstname: ["Pawel", "P."]
+    url: https://math.ryerson.ca/~pralat/
+
+"Pyatkin":
+  - firstname: ["Artem V.", "A. V.", "Artem", "A."]
+    url: https://dblp.org/pid/56/2454.html
+
+"Ramanujan":
+  - firstname: ["M. S."]
+    url: https://msramanujan.weebly.com/
+
+"Rastegari":
+  - firstname: ["Baharak", "Bahar", "B."]
+    url: https://sites.google.com/view/baharrastegari/home
+
+"Razgon":
+  - firstname: ["Igor", "I."]
+    url: https://www.dcs.bbk.ac.uk/~igor/
+
+"Rosamond":
+  - firstname: ["Frances A.", "F. A.", "Frances", "Fran", "F."]
+    url: https://dblp.org/pid/34/783.html
+
+"Rümmele":
+  - firstname: ["Stefan", "S."]
+    url: https://dblp.org/pid/86/5471.html
+
+"Sæther":
+  - firstname: ["Sigve Hortemo", "S. H.", "Sigve", "S."]
+    url: https://www.linkedin.com/in/sigve-hortemo-s%C3%A6ther-92b48928/
+
+"Saffidine":
+  - firstname: ["Abdallah", "A."]
+    url: https://cgi.cse.unsw.edu.au/~abdallahs/
+
+"Saurabh":
+  - firstname: ["Saket", "S."]
+    url: https://sites.google.com/view/sakethome
+
+"Schmid":
+  - firstname: ["Markus L.", "M. L.", "Markus", "M."]
+    url: http://www.mlschmid.de/
+
+"Schutt":
+  - firstname: ["Andreas", "A."]
+    url: https://www.minizinc.org/people/schutt_andreas.html
+
+"Shaw":
+  - firstname: ["Alexis", "A.", "Alexis T. E.", "A. T. E."]
+    url: https://scholar.google.com/citations?user=sOMd_9UAAAAJ&hl=en
+
+  - firstname: ["Peter", "P."]
+    url: https://scholar.google.com.au/citations?user=M27e9HgAAAAJ&hl=en
+
+"Smith":
+  - firstname: ["Josh", "Joshua", "J."]
+    url: https://www.linkedin.com/in/joshuanathansmith/
+
+"Sorkin":
+  - firstname: ["Gregory B.", "G. B.", "Gregory", "G."]
+    url: https://www.lse.ac.uk/Mathematics/people/Gregory-Sorkin
+
+"Stein":
+  - firstname: ["Maya Jakobine", "Maya J.", "M. J.", "Maya", "M."]
+    url: http://www.dim.uchile.cl/~mstein/
+
+"Stepanov":
+  - firstname: ["Alexey A.", "A. A.", "Alexey", "A."]
+    url: https://dblp.org/pid/28/3755.html
+
+"Stursberg":
+  - firstname: ["Paul", "P."]
+    url: https://dblp.org/pid/136/7228.html
+
+"Suchan":
+  - firstname: ["Karol", "K."]
+    url: https://www.udp.cl/academico/karol-suchan/
+
+"Sun":
+  - firstname: ["Zhaohong", "Z."]
+    url: https://sites.google.com/view/zhaohong-sun/home
+
+"Szeider":
+  - firstname: ["Stefan", "S."]
+    url: https://www.ac.tuwien.ac.at/people/szeider/
+
+"Täubig":
+  - firstname: ["Hanjo", "H."]
+    url: http://wwwmayr.in.tum.de/personen/taeubig/
+
+"Telle":
+  - firstname: ["Jan Arne", "J. A.", "Jan", "J."]
+    url: http://www.ii.uib.no/~telle/
+
+"Thomassé":
+  - firstname: ["Stéphan", "Stephan", "S."]
+    url: http://perso.ens-lyon.fr/stephan.thomasse/
+
+"Todinca":
+  - firstname: ["Ioan", "I."]
+    url: https://www.univ-orleans.fr/lifo/Members/todinca/index-en.html
+
+"Tran":
+  - firstname: ["Kevin", "K."]
+    url: https://cphof.org/profile/icpc:Kevin%20Tran
+
+"Tyler":
+  - firstname: ["Paul", "P."]
+    url: https://people.csiro.au/T/P/Paul-Tyler
+
+"Yokoo":
+  - firstname: ["Makoto", "M."]
+    url: https://sites.google.com/view/makoto-yokoo/
+
+"Van Hentenryck":
+  - firstname: ["Pascal", "P."]
+    url: https://www.isye.gatech.edu/users/pascal-van-hentenryck
+
+"Hentenryck":
+  - firstname: ["Pascal Van", "P. Van"]
+    url: https://www.isye.gatech.edu/users/pascal-van-hentenryck
+
+"Vatshelle":
+  - firstname: ["Martin", "M."]
+    url: http://www.ii.uib.no/~martinv/
+
+"Villanger":
+  - firstname: ["Yngve", "Y."]
+    url: https://www.linkedin.com/in/yngve-villanger-4b3a211/
+
+"Walsh":
+  - firstname: ["Toby", "T."]
+    url: http://www.cse.unsw.edu.au/~tw/
+
+"Zivný":
+  - firstname: ["Stanislav", "Standa", "S."]
+    url: https://www.cs.ox.ac.uk/standa.zivny/

@@ -1,9 +1,94 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AIJ":
+  url: https://www.sciencedirect.com/journal/artificial-intelligence
+  color: "#ff4c4c"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Algorithmica":
+  url: https://www.springer.com/journal/453
+  color: "#ff4c4c"
 
-"Vision":
-  color: "#009f36"
+"DAM":
+  url: http://www.journals.elsevier.com/discrete-applied-mathematics/
+  color: "#ff4c4c"
+
+"DMTCS":
+  url: https://dmtcs.episciences.org/
+  color: "#ff4c4c"
+
+"IJGT":
+  url: https://www.springer.com/journal/182
+  color: "#ff4c4c"
+
+"IPL":
+  url: https://www.sciencedirect.com/journal/information-processing-letters
+  color: "#ff4c4c"
+
+"JACM":
+  url: https://dl.acm.org/journal/jacm
+  color: "#ff4c4c"
+
+"JCSS":
+  url: https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences
+  color: "#ff4c4c"
+
+"J. Graph Theory":
+  url: https://onlinelibrary.wiley.com/journal/10970118
+  color: "#ff4c4c"
+
+"PoPETs":
+  url: https://petsymposium.org/
+  color: "#ff4c4c"
+
+"SIDMA":
+  url: http://www.siam.org/journals/sidma.php
+  color: "#ff4c4c"
+
+"SIGecom":
+  url: https://www.sigecom.org/exchanges/
+  color: "#ff4c4c"
+
+"TALG":
+  url: https://dl.acm.org/journal/talg
+  color: "#ff4c4c"
+
+"TCS":
+  url: https://www.sciencedirect.com/journal/theoretical-computer-science
+  color: "#ff4c4c"
+
+"TOCS":
+  url: https://www.springer.com/journal/224
+  color: "#ff4c4c"
+
+"Ency Algorithms":
+  url: https://doi.org/10.1007/978-0-387-30162-4
+  color: "#f77007"
+
+"Birthday":
+  color: "#f77007"
+
+"Book Chapter":
+  color: "#f77007"
+
+"Book":
+  color: "#f77007"
+
+"Dagstuhl":
+  color: "#f77007"
+
+"SAT 2017":
+  url: http://sat2017.gitlab.io/
+  color: "#0c948b"
+
+"Video":
+  color: "#be4d25"
+
+"PhD":
+  color: "#49be25"
+
+"M2":
+  color: "#49be25"
+
+"M1":
+  color: "#49be25"
+
+"DUT":
+  color: "#49be25"
