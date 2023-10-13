@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor & Associate Head of School (Research), <a href='http://www.unsw.edu.au/'>UNSW Sydney</a>
+subtitle: Professor & Associate Head of School (Research), <a href='https://www.unsw.edu.au/'>UNSW Sydney</a>
 
 profile:
   align: right
@@ -24,9 +24,9 @@ My [research](/research/) is mainly about the study of intractable computational
 
 I am affiliated with the following entities at UNSW Sydney (The University of New South Wales):
 * [Faculty of Engineering](https://www.unsw.edu.au/engineering),
-* [School of Computer Science and Engineering](https://www.engineering.unsw.edu.au/computer-science-engineering/),
+* [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering),
 * [Algorithms group](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering/our-research/research-groups/algorithms) (head of group).
 * [Algorithmic Decision Theory group](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering/our-research/research-groups/algorithmic-decision-theory), and
-* [UNSW AI Institute](https://www.unsw.edu.au/engineering/our-research/research-centres-institutes/unsw-ai).
+* [UNSW AI Institute](https://www.unsw.edu.au/unsw-ai).
 
-I serve on the editorial boards of [Algorithms](http://www.mdpi.com/journal/algorithms) and [Acta Informatica](https://www.springer.com/journal/236).
+I serve on the editorial boards of [Algorithms](https://www.mdpi.com/journal/algorithms) and [Acta Informatica](https://www.springer.com/journal/236).
