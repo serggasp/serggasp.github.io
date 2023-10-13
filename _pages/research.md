@@ -8,9 +8,9 @@ nav_order: 0
 ---
 
 My research and research interests mainly fall under the following topics.
-* **Algorithms and Complexity**: exponential time algorithms, parameterized complexity, quantum algorithms, combinatorial optimization
-* **Combinatorics**: extremal combinatorics, graph classes, graph decompositions
-* **Satisfiability and Constraints**: backdoors, (local) consistency, global constraints, propagation
+* **[Algorithms](https://en.wikipedia.org/wiki/Analysis_of_algorithms) and [Complexity](https://en.wikipedia.org/wiki/Computational_complexity)**: exponential time algorithms, parameterized complexity, quantum algorithms, combinatorial optimization
+* **[Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)**: extremal combinatorics, graph classes, graph decompositions
+* **[Satisfiability](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) and [Constraints](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem)**: backdoors, (local) consistency, global constraints, propagation
 * **Applications**: algorithmic game theory, computational social choice, preprocessing, resource allocation, scheduling
 
 ---
