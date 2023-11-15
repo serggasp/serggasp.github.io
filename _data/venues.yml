@@ -6,6 +6,10 @@
   url: https://www.springer.com/journal/453
   color: "#ff4c4c"
 
+"arXiv":
+  url: https://arxiv.org/
+  color: "#757575"
+
 "DAM":
   url: http://www.journals.elsevier.com/discrete-applied-mathematics/
   color: "#ff4c4c"
