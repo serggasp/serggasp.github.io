@@ -30,7 +30,6 @@ Please get in touch to talk about projects that appeal to both industry and acad
 
 **Domains and Keywords**  
 Boolean satisfiability, computational chemistry, constraint satisfaction, fair resource allocation, graph and network algorithms, preference aggregation, preprocessing, quantum algorithms, scheduling, self-interested agents, turbocharging heuristics, worst-case running time guarantees.
-Students
 
 ---
 ## unsw students
