@@ -21,7 +21,7 @@ I am lucky to have supervised and mentored excellent students and postdocs.
 
 ---
 ## phd students
-* [Tiankuang (Ty) Zhang](https://au.linkedin.com/in/ty-zhang-554811125), main supervisor, 2021–
+* [Tiankuang (Ty) Zhang](https://sites.google.com/view/ty-zhang), main supervisor, 2021–
 * [Ayda Valinezhad Orang](https://www.linkedin.com/in/ayda-valinezhad-orang-692bb6184/), main supervisor, 2019–
 * [Edward J. Lee](https://dblp.org/pid/202/9999.html), main supervisor, 2016–2021
 * [Zhaohong Sun](https://sites.google.com/view/zhaohong-sun/home), joint supervisor, 2016–2020
