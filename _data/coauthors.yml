@@ -58,6 +58,10 @@
   - firstname: ["Geoffrey", "G."]
     url: https://dblp.org/pid/16/7407.html
 
+"Clinch":
+  - firstname: ["Katie", "K."]
+    url: https://www.unsw.edu.au/staff/katie-clinch
+
 "Cochefert":
   - firstname: ["Manfred", "M."]
     url: https://www.linkedin.com/in/manfred-cochefert/
@@ -419,6 +423,10 @@
 "Walsh":
   - firstname: ["Toby", "T."]
     url: http://www.cse.unsw.edu.au/~tw/
+
+"Zhang":
+  - firstname: ["Tiankuang", "T."]
+    url: https://sites.google.com/view/ty-zhang
 
 "Zivný":
   - firstname: ["Stanislav", "Standa", "S."]
