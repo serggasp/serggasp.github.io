@@ -166,6 +166,10 @@
   - firstname: ["Eun Jung", "EunJung", "Eunjung", "E. J.", "E."]
     url: https://www.lamsade.dauphine.fr/~kim/
 
+"Klasing":
+  - firstname: ["Ralf", "R."]
+    url: https://www.labri.fr/perso/klasing/
+
 "Koivisto":
   - firstname: ["Mikko", "M."]
     url: https://www.cs.helsinki.fi/u/mkhkoivi/
@@ -313,6 +317,10 @@
   - firstname: ["Frances A.", "F. A.", "Frances", "Fran", "F."]
     url: https://dblp.org/pid/34/783.html
 
+"Ruj":
+  - firstname: ["Sushmita", "S."]
+    url: https://www.unsw.edu.au/staff/sushmita-ruj
+
 "Rümmele":
   - firstname: ["Stefan", "S."]
     url: https://dblp.org/pid/86/5471.html
@@ -411,6 +419,14 @@
 "Hentenryck":
   - firstname: ["Pascal Van", "P. Van"]
     url: https://www.isye.gatech.edu/users/pascal-van-hentenryck
+
+"Valinezhad Orang":
+  - firstname: ["Ayda", "A."]
+    url: https://www.linkedin.com/in/ayda-valinezhad-orang-692bb6184/
+
+"Orang":
+  - firstname: ["Ayda", "A.", "Ayda Valinezhad", "Ayda V."]
+    url: https://www.linkedin.com/in/ayda-valinezhad-orang-692bb6184/
 
 "Vatshelle":
   - firstname: ["Martin", "M."]
