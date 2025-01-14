@@ -29,4 +29,4 @@ I am affiliated with the following entities at UNSW Sydney (The University of Ne
 * [Algorithmic Decision Theory group](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering/our-research/research-groups/algorithmic-decision-theory), and
 * [UNSW AI Institute](https://www.unsw.edu.au/unsw-ai).
 
-I serve on the editorial boards of [Acta Informatica](https://www.springer.com/journal/236).
+I serve on the editorial board of [Acta Informatica](https://www.springer.com/journal/236).
