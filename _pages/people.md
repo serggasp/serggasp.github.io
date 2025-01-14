@@ -22,7 +22,7 @@ I am lucky to have supervised and mentored excellent students and postdocs.
 ---
 ## phd students
 * [Tiankuang (Ty) Zhang](https://sites.google.com/view/ty-zhang), main supervisor, 2021–
-* [Ayda Valinezhad Orang](https://www.linkedin.com/in/ayda-valinezhad-orang-692bb6184/), main supervisor, 2019–
+* [Ayda Valinezhad Orang](https://www.linkedin.com/in/ayda-valinezhad-orang-692bb6184/), main supervisor, 2019–2025
 * [Edward J. Lee](https://dblp.org/pid/202/9999.html), main supervisor, 2016–2021
 * [Zhaohong Sun](https://sites.google.com/view/zhaohong-sun/home), joint supervisor, 2016–2020
 * [Kamran Najeebullah](https://people.csiro.au/n/k/kamran-najeebullah), main supervisor, 2015–2018
@@ -37,6 +37,7 @@ See the [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=
 
 ---
 ## honours
+* [Tao Zixu He](https://tao-he.com/), 2024-2025
 * [Damian Basso](https://www.linkedin.com/in/damian-basso/), 2023-2024
 * [Jared Smith](https://www.linkedin.com/in/jaredsmith2001/), 2023
 * [Gerald Huang](https://huanggerald.com/), 2023
@@ -54,6 +55,7 @@ See the [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=
 
 ---
 ## interns
+* [Tao Zixu He](https://tao-he.com/), 2024
 * [Nidia Obscura Acosta](https://www.aalto.fi/en/people/nidia-obscura-acosta), 2016–2017
 * [Kevin Tran](https://cphof.org/profile/icpc:Kevin%20Tran), 2016–2017
 * [Antonin Lambilliotte](https://dblp.org/pid/199/1788.html), 2016
