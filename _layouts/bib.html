@@ -106,8 +106,8 @@
               "
           >{{more_authors_hide}}</span>
         {%- endif -%}
-
-        {%- if entry.type contains 'proceedings' -%}
+        {{entry.type}}
+        {%- if entry.type == 'proceedings' -%}
           {% assign author_array_size = entry.editor_array | size %}
 
           {% assign author_array_limit = author_array_size %}
