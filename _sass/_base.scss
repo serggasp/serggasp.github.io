@@ -756,7 +756,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;
       }
 
       .author {
@@ -787,6 +787,7 @@ footer.sticky-bottom {
       }
 
       .links {
+        display: inline-block;
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -808,6 +809,8 @@ footer.sticky-bottom {
 
       .badges {
         padding-bottom: 0.5rem;
+        display: inline-block;
+        float: right;
         span {
           display: inline-block;
           color: $black-color;

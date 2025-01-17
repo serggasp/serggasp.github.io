@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Authors are listed in alphabetical order on all publications, except for COMSNETS 2024, PoPETs 2023 and IJCAI 2019, where authors are listed by contribution.
+description: 
 nav: true
 nav_order: 2
 ---

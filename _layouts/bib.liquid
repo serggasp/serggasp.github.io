@@ -46,18 +46,21 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-    <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
     <!-- Author -->
     <div class="author">
-      {% assign author_array_size = entry.author_array | size %}
+      {% assign my_author_array = entry.author_array %}
+      {% if entry.type == 'proceedings' %}
+        {% assign my_author_array = entry.editor_array %}
+      {% endif %}
+
+      {% assign author_array_size = my_author_array | size %}
 
       {% assign author_array_limit = author_array_size %}
       {% if site.max_author_limit and author_array_size > site.max_author_limit %}
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
-      {%- for author in entry.author_array limit: author_array_limit -%}
+      {%- for author in my_author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
@@ -106,7 +109,7 @@
           {% assign more_authors_hide = more_authors_hide | append: 's' %}
         {%- endif -%}
         {% assign more_authors_show = '' %}
-        {%- for author in entry.author_array offset: author_array_limit -%}
+        {%- for author in my_author_array offset: author_array_limit -%}
           {% assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last %}
           {% unless forloop.last %}
             {% assign more_authors_show = more_authors_show | append: ', ' %}
@@ -144,6 +147,8 @@
         </i>
       {% endif %}
     </div>
+    <!-- Title -->
+    <div class="title">{{ entry.title }}</div>
 
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
@@ -192,12 +197,19 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
-      {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      {%- if entry.url %}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
+      {%- else  -%}
+        {% if entry.doi %}
+          <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        {% endif %}
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
+      {% if entry.techrep %}
+        <a href="{{ entry.techrep }}" class="btn btn-sm z-depth-0" role="button">Tech Rep</a>
+      {% endif %}      
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
@@ -225,7 +237,7 @@
       {% if entry.video and site.enable_video_embedding %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}
-        <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+        <a href="{{ entry.video | replace_first: '%C2%A0', '~'}}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
       {% if entry.blog %}
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
@@ -276,6 +288,7 @@
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
+              data-hide-less-than="2"
               data-badge-type="2"
               data-badge-popover="right"
               {% if entry.altmetric != blank and entry.altmetric != 'true' %}
