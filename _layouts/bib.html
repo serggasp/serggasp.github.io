@@ -34,7 +34,7 @@
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
-        <div class="author">
+        <div class="author">|{{entry.type}}|
         {% assign author_array_size = entry.author_array | size %}
 
         {% assign author_array_limit = author_array_size %}
@@ -106,7 +106,7 @@
               "
           >{{more_authors_hide}}</span>
         {%- endif -%}
-        {{entry.type}}
+
         {%- if entry.type == 'proceedings' -%}
           {% assign author_array_size = entry.editor_array | size %}
 
