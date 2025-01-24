@@ -17,7 +17,7 @@ My research and research interests mainly fall under the following topics.
 ## selected publications
 <div class="publications">
 
-{%- include selected_papers.html %}
+{%- include selected_papers.liquid %}
 
 </div>
 
