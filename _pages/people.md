@@ -56,7 +56,7 @@ See the [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=
 ---
 ## interns
 * [Tao Zixu He](https://tao-he.com/), 2024
-* [Nidia Obscura Acosta](https://www.aalto.fi/en/people/nidia-obscura-acosta), 2016–2017
+* [Nidia Obscura Acosta](https://dblp.org/pid/204/1579.html), 2016–2017
 * [Kevin Tran](https://cphof.org/profile/icpc:Kevin%20Tran), 2016–2017
 * [Antonin Lambilliotte](https://dblp.org/pid/199/1788.html), 2016
 * [Edward J. Lee](https://dblp.org/pid/202/9999.html), 2016
