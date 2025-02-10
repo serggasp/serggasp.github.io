@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-The [Algorithms group](https://www.cse.unsw.edu.au/~algo/) brings together academics at UNSW with research interests in algorithms and complexity.
+The [algorithms group](https://algo-unsw.github.io/) brings together academics at UNSW with research interests in algorithms and complexity.
 I am lucky to have supervised and mentored excellent students and postdocs.
 
 ---
