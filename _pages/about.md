@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p></p>
   <p>Professor, <a href='https://www.unsw.edu.au/'>UNSW Sydney</a></p>
   <p>Serge is pronounced <a href='https://ipa-reader.com/?text=s%C9%9D%CB%90d%CA%92&voice=Nicole'>/sɝːdʒ/</a> (typical English pronounciation) or <a href='https://ipa-reader.com/?text=s%C9%9B%CA%81%CA%92&voice=Lea'>/sɛʁʒ/</a> (typical French pronounciation).</p>
 
